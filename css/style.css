@@ -76,6 +76,7 @@ header {
   background-color: #ffffff;
   margin-top: 220px;
   padding: 35px 0;
+  height: 2000px; /* scrollgress */
 }
 
 .content {
@@ -227,3 +228,9 @@ table {
   margin-top: 0;
   padding: 0;
 }
+
+/*  */
+.scrollgress {
+  z-index: 3;
+}
+
