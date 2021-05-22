@@ -179,15 +179,6 @@ h2 {
   border-left: 7px solid #9cb4a4;
 }
 
-#about .profile-txt {
-  width: 540px;
-  float: left;
-}
-
-#about .profile-txt span {
-  font-weight: bold;
-}
-
 #about .profile-image {
   float: right;
 }
