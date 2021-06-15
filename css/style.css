@@ -45,13 +45,7 @@ header {
 
 .logo {
   float: left;
-  margin-top: 60px;
-  font-size: 20px;
-  font-family: 'Bitter', serif;
-}
-
-.logo a {
-  color: #ffffff;
+  margin-top: 50px;
 }
 
 .global-nav {
@@ -184,6 +178,12 @@ h2 {
   padding-right: 10px;
   border-left: 7px solid #9cb4a4;
 }
+
+#about .profile-txt {
+  width: 540px;
+  float: left;
+}
+
 
 #about .profile-image {
   float: right;

@@ -1,3 +1,2 @@
 # ポートフォリオ
-https://ninjin-k.github.io/portfolio/
-あいうえお。
+https://akaneka.github.io/portfolio/
